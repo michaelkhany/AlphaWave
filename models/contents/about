@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<content>
+<subject>about</subject>
+<detail>The body's encoding is just manipulated simply by string html encoding function.</detail>
+<body>
+                        &lt;h2 class=&quot;blog-post-title&quot;&gt;New feature&lt;/h2&gt;
+                        &lt;p class=&quot;blog-post-meta&quot;&gt;March 14, 2021 by &lt;a href=&quot;#&quot;&gt;Michael&lt;/a&gt;&lt;/p&gt;
+
+                        &lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+                        &lt;ul&gt;
+                            &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+                            &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+                            &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+                        &lt;/ul&gt;
+                        &lt;p&gt;Etiam porta &lt;em&gt;sem malesuada magna&lt;/em&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+                        &lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+                    &lt;/div&gt;&lt;!-- /.blog-post --&gt;
+
+                    &lt;nav class=&quot;blog-pagination&quot;&gt;
+                        &lt;a class=&quot;btn btn-outline-primary&quot; href=&quot;#&quot;&gt;Older&lt;/a&gt;
+                        &lt;a class=&quot;btn btn-outline-secondary disabled&quot; href=&quot;#&quot;&gt;Newer&lt;/a&gt;
+                    &lt;/nav&gt;
+</body>
+</content>
