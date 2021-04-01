@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel='shortcut icon' type='image/icon' href='favicon.ico'/>
+        <link href="../assets/css/style_404.css" rel="stylesheet" type="text/css"/>
+
+        <title>404</title>
+    </head>
+    <body>
+        <div class="overlay"></div>
+        <div class="terminal">
+            <h1>Error <span class="errorcode">404</span></h1>
+            <p class="output">The page you are looking for might have been removed, had its name changed or is temporarily unavailable.</p>
+            <p class="output">Please try to <a onclick="goBack()" href="#">go back</a> or <a href="index.php">return to the homepage</a>.</p>
+            <p class="output">Good luck.</p>
+        </div>
+        <script>
+            function goBack() {
+                window.history.back();
+            }
+        </script>
+    </body>
+</html>
